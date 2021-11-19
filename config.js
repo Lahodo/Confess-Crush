@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Khi nào hết dịch cta ik Hồ Gươm ăn kem típ nha nhớ quáa (các cậu mời nhỉ ><)',
+    messDesc: 'Khi nào hết dịch, cta ik Hồ Gươm ăn kem tràng tiền típ nha nhớ quáa (các cậu mời nhỉ ><)',
     btnAccept: 'Okiiiii lun, mlem mlem <3',
     messLink: 'https://docs.google.com/forms/d/e/1FAIpQLSdfeGdghqeHowJOpXkgMmgVt66CmRdQdheIoZ6clokBlo9wig/viewform' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
